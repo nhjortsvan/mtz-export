@@ -1,0 +1,92 @@
+{
+  "settings": {
+    "name": "Site-10-20_1000",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "versionFirst": "4.3.4",
+    "uniqCompNum": 2,
+    "versionPublish": "4.3.4"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mzt-tennis-signup-picture-819x460.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f1c050",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-0"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Nuevo Mazatlán- Pueblo Bonito \n<div>Tennis Camp \n</div><div>December 4-11, 2017</div>",
+          "caption": "<p>Nuevo Mazatlán- Pueblo Bonito Tennis Camp December 4-11, 2017 Scott Borowiak Tennis Tours is happy to announce a NEW venue for our tennis camp!  Enjoy a week of high-level instruction and social play at the magnificent Pueblo Bonito Resort located on beautiful Emerald Bay in Nuevo Mazatlán. In addition to our resort, we will be taking advantage of other local tennis venues for our clinics and social play.  Free shuttle service provided. \n</p><p>&nbsp;\n<span style=\"font-size: 1.25rem;\">Now is the time to improve your game, make new friends and enjoy intimate on court lessons and social play!  Plan for a dynamic week of play and instruction designed to maximize your tennis experience and address your personal goals. </span></p><p><span style=\"font-size: 1.25rem;\">       The $595 Tennis Option (per person) includes Daily morning and Afternoon Tennis &nbsp;</span></p><p>- Daily Two- hour classes, six mornings at Pueblo Bonito or El Cid Resort \n</p><p>- Group size will vary. Our goal is 3 to 5 people per court.  \n</p><p>- Afternoon Social Match play Round-Robin Sessions  \n</p><p>- Strategy and technique for singles and doubles will be emphasized. \n</p><p>- Daily  “Pro of the Day” presentation/seminar/clinic for the entire group.</p><p>Players will be assigned to groups based on NTRP ratings. Reserve your space with a $200 deposit per person. Your final payment is due no later than November 20th, 2017   Please make your check payable to Scott Borowiak and include sign-up form below.   Mail to:  Scott Borowiak 219 Paseo Bernal, Moraga, CA 94556 </p><p>&nbsp;Please do not mail tennis payment to the ILT Novato address.</p><p>\n<span style=\"font-size: 1.25rem;\">&nbsp;------------------------------------------------------------------------------------------------------------------------------- &nbsp;</span></p><p>&nbsp;\n</p><p>Name ____________________________________ NTRP Rating ____________  \n</p><p>&nbsp;\n</p><p>Email Address ___________________________ Phone Number______________ &nbsp; &nbsp;</p><p><span style=\"font-size: 1.25rem;\">Please contact Scott Borowiak if you have questions about this program or your rating. &nbsp; &nbsp;925- 376-7865 &nbsp; &nbsp; &nbsp; &nbsp;borotennis@aol.com</span></p><p>&nbsp;</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1",
+          "_customHTML": "<section class=\"mbr-section mbr-parallax-background col-undefined\" data-rv-view=\"99\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/photo-3.jpg&quot;); padding-top: 9rem; padding-bottom: 9rem;\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.7; background-color: rgb(255, 255, 255);\"></div>\n    <div class=\"container\">\n        <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"34\">Nuevo Mazatlán- Pueblo Bonito \n<div>Tennis Camp \n</div><div>December 4-11, 2017</div></h3>\n        <div class=\"lead mbr-editable-content\" code-editable-id=\"35\"><p>Nuevo Mazatlán- Pueblo Bonito Tennis Camp December 4-11, 2017 Scott Borowiak Tennis Tours is happy to announce a NEW venue for our tennis camp!  Enjoy a week of high-level instruction and social play at the magnificent Pueblo Bonito Resort located on beautiful Emerald Bay in Nuevo Mazatlán. In addition to our resort, we will be taking advantage of other local tennis venues for our clinics and social play.  Free shuttle service provided. \n</p><p>&nbsp;\n<span style=\"font-size: 1.25rem;\">Now is the time to improve your game, make new friends and enjoy intimate on court lessons and social play!  Plan for a dynamic week of play and instruction designed to maximize your tennis experience and address your personal goals. </span></p><p><span style=\"font-size: 1.25rem;\">       The $595 Tennis Option (per person) includes Daily morning and Afternoon Tennis &nbsp;</span></p><p>- Daily Two- hour classes, six mornings at Pueblo Bonito or El Cid Resort \n</p><p>- Group size will vary. Our goal is 3 to 5 people per court.  \n</p><p>- Afternoon Social Match play Round-Robin Sessions  \n</p><p>- Strategy and technique for singles and doubles will be emphasized. \n</p><p>- Daily  “Pro of the Day” presentation/seminar/clinic for the entire group.</p><p>Players will be assigned to groups based on NTRP ratings. Reserve your space with a $200 deposit per person. Your final payment is due no later than November 20th, 2017   Please make your check payable to Scott Borowiak and include sign-up form below.   Mail to:  Scott Borowiak 219 Paseo Bernal, Moraga, CA 94556 </p><p class=\"warning\">&nbsp;Please do not mail tennis payment to the ILT Novato address.</p><p>\n<span style=\"font-size: 1.25rem;\">&nbsp;------------------------------------------------------------------------------------------------------------------------------- &nbsp;</span></p><p>&nbsp;\n</p><p>Name ____________________________________ NTRP Rating ____________  \n</p><p>&nbsp;\n</p><p>Email Address ___________________________ Phone Number______________ &nbsp; &nbsp;</p><p><span style=\"font-size: 1.25rem;\">Please contact Scott Borowiak if you have questions about this program or your rating. &nbsp; &nbsp;925- 376-7865 &nbsp; &nbsp; &nbsp; &nbsp;borotennis@aol.com</span></p><p>&nbsp;</p></div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-title {\n  color: #d9534f;\n  text-align: center;\n}\nP {\n  color: #000000;\n}\n#warning {\n    color: red;\n        font-weight: bold;\n}",
+          "_customTemplate": true
+        }
+      ]
+    }
+  }
+}
